@@ -2,10 +2,10 @@
 Implementations inspired (or asked) by the book Reinforcement Learning 2nd Ed. by Sutton and Barto
 
 ## Action-Value Methods
-- [Sample average](notebooks/k-armed-bandit.py)
-- [Exponential recency-weighted average](notebooks/k-armed-bandit.py)
-- [Gradient Bandit](notebooks/k-armed-bandit.py)
+- [Sample average](notebooks/k-armed-bandit.ipynb)
+- [Exponential recency-weighted average](notebooks/k-armed-bandit.ipynb)
+- [Gradient Bandit](notebooks/k-armed-bandit.ipynb)
 
 ## Action Selection
-- [&#949;-greedy](notebooks/k-armed-bandit.py)
-- [Upper-Confidence-Bound](notebooks/k-armed-bandit.py)
+- [&#949;-greedy](notebooks/k-armed-bandit.ipynb)
+- [Upper-Confidence-Bound](notebooks/k-armed-bandit.ipynb)
